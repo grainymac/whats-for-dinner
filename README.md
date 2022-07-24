@@ -33,7 +33,7 @@ The spec for this project can be found [here](https://frontend.turing.io/project
 ## Project Overview & Deployed Project
 
 - [What's for Dinner?](https://frontend.turing.edu/projects/module-1/dinner.html)
-- [Deployed Project]
+- [Deployed Project](https://grainymac.github.io/)
 
 ### Personal Goals
 
