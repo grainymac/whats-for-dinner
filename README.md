@@ -18,7 +18,7 @@ This Solo Challenge gives students and instructors the opportunity to get a puls
 
 ## Contributers
 
-- [Ian McIntosh](https://github.com/grainymac))
+- [Ian McIntosh](https://github.com/grainymac)
 
 ## Project Manager
 
