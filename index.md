@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# What's for Dinner?
 
-You can use the [editor on GitHub](https://github.com/grainymac/whats-for-dinner/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What's for dinner? The ultimate question. You will be building an app that helps users choose a recipe and put together meals. 
 
-### Markdown
+This Solo Challenge gives students and instructors the opportunity to get a pulse on where you are with the foundational concepts of Module 1 curriculum. Students should use this as an opportunity to challenge themselves and work completely independently. Google can (and probably should!) be used, but any other code base should not be referenced. Instructors will be able to use your work, both completion of functionality and code quality, to determine where you stand and if you are behind for this point in the module, provide supports to intervene.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Learning Goals
 
-```markdown
-Syntax highlighted code block
+- Gain experience building an application that utilizes HTML, CSS and JavaScript
+- Write HTML and CSS to match a provided comp
+- Understand how to listen to and respond to user events
+- Individualize your programming skill set
 
-# Header 1
-## Header 2
-### Header 3
+## Screenshot of Project
+<img width="1384" alt="Screen Shot 2022-07-24 at 5 13 44 PM" src="https://user-images.githubusercontent.com/106535343/180667883-08163260-2f0a-4187-b815-852945027775.png">
 
-- Bulleted
-- List
+## Contributers
 
-1. Numbered
-2. List
+- [Ian McIntosh](https://github.com/grainymac)
 
-**Bold** and _Italic_ and `Code` text
+## Project Manager
 
-[Link](url) and ![Image](src)
-```
+- [Jeremiah Black](https://github.com/jeremiahblackol)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Project Overview & Deployed Project
 
-### Jekyll Themes
+- [What's for Dinner?](https://frontend.turing.edu/projects/module-1/dinner.html)
+- [Deployed Project](https://grainymac.github.io/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/grainymac/whats-for-dinner/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Personal Goals
 
-### Support or Contact
+- Have better naming conventions when it comes to class and variable assigning.
+- Better organization.  Considering sectioning off code.
+- Discover new ways to affect the design of my page with CSS.
+- Do more commits and pushes up to GitHun.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Summary
+
+- I started designing my application with HTML by building the places that I wanted my text, images, and buttons to go.  Once, I had the layout of my tags down and IDs and classes assigned, I started coding my CSS.  I made four sections based on the lay out of the page: top, middle, bottom, and utilities.  I started from the top to the bottom and adding utilities as I went.  After designing the look of my application, I moved over to Javascript and wrote the food arrarys, query selectors, event listeners and then funtions of my page.
+
+
+### Challenges
+
+- Remembering to commit and push up my work to GitHun
+- CSS: _"Choose your own adventure"_, was very challenging trying to apply it to my page.  I did not fully finish the challenge but I did most of it.
+- CSS: Understanding when and where to place things.  Using percentages versus pixels quantification.
+
+
